@@ -48,7 +48,7 @@
 
 - **시스템 소프트웨어, 응용 소프트웨어**
 
-![Untitled](https://github.com/yunh03/c-programming/blob/main/week-2/img/Untitled.png?raw=true)
+![Untitled](https://github.com/yunh03/c-programming/blob/main/notes/src/Untitled.png?raw=true)
 
 - **원시 파일, 목적 파일, 실행 파일**
 - 컴파일러(원시 파일 → 목적 파일)
@@ -64,7 +64,7 @@
     - 프로그램 내용을 설명
     - 컴파일러는 주석을 기계어로 변환 X
 
-![Untitled](https://github.com/yunh03/c-programming/blob/main/week-2/img/Untitled%201.png?raw=true)
+![Untitled](https://github.com/yunh03/c-programming/blob/main/notes/src/Untitled%201.png?raw=true)
 
 - 전처리기 지시자
     - 헤더파일 포함 및 상수나 간단한 매크로를 정의
