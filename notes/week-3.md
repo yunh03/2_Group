@@ -30,9 +30,7 @@
 
     A. 1번 문제는 숫자 입력을 받아야 하니까 char→int로 수정하면 되는데, 2번은 어디가 잘못된 거지?
 
-    B. length가 소수점을 가진 수라서 length와 area앞을 short가 아닌 실수형의 기본형인 double로 수
-
-    정해야 한다.
+    B. length가 소수점을 가진 수라서 length와 area앞을 short가 아닌 실수형의 기본형인 double로 수정해야 한다.
 
     A. 밑에서 number를 재정의해야 하니까, const도 지워서 실행해보자.
 
