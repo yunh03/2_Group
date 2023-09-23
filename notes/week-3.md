@@ -8,7 +8,7 @@
 
     B. 수학과 관련된 함수이다. 
 
-    A. pow는 math.h의 어떤 함수에 속해 있지?
+    A. pow는 math.h의 어떤 함수에 속해있을까?
 
     B. power functions에 포함되어 있다.
 
