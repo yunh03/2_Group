@@ -89,7 +89,7 @@
 
 ### 비트 연산자
 
-![Untitled.png](https://github.com/yunh03/2_Group/blob/main/notes/src/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-09-29%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.43.31.png?raw=true
+![Untitled](https://raw.githubusercontent.com/yunh03/2_Group/main/notes/src/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA%202023-09-29%20%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE%202.43.31.png)
 
 - 1비트로는 데이터를 2개, 2비트로는 4개, n비트로는 2n개
     - 종류
