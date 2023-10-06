@@ -80,6 +80,7 @@ ex) 홀수는 출력, 짝수는 출력X
         - if문 안에서 또 다른 조건식을 검사
     - switch~case
         - 조건식 선평가 후 case 상수와 일치하는 쪽으로 해석하여 명령문 실행
+        ![week5](https://github.com/yunh03/2_Group/blob/main/notes/src/week5.png)
 - 반복문
 - 무조건 분기문
 
